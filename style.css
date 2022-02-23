@@ -1,0 +1,136 @@
+    
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(253, 251, 251);
+    padding: 10px;
+}
+.top-nav{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(26, 22, 22);
+    padding: 10px;
+}
+.logo{
+    color: white;
+}
+.one{
+    display: flex;
+    color: white;
+}
+.one img{
+    margin-top: 5px;
+    color: white !important;
+    width: 30px;
+    margin-right: 5px;
+}
+#partner{
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    margin-right: 13px;
+    cursor: pointer;
+}
+.navbar{
+    background-color: white;
+    display: flex !important;
+    justify-content: space-between !important;
+    font-family: 'Pacifico', "cursive";
+
+}
+.navbar h1{
+    margin-top: 18px;
+}
+.one-vector{
+    display: flex;
+}
+.one-vector img{
+    margin-top: 10px;
+    color: white !important;
+    width: 30px;
+    margin-right: 10px;
+}
+.navbar h2{
+    margin-top: 28px;
+    font-family: 'Lato', sans-serif;
+}
+.button-flex{
+    display: flex;
+}
+.banner{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+}
+.text{
+    
+    text-align: center;
+    line-height: 40px;
+}
+#t{
+    margin-top: 20px;
+}
+#creative{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    margin-top: 30px;
+    
+ 
+}
+#more{
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    margin-right: 13px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+footer{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#par{
+    margin-top: 20px !important;
+}
+#footer-p{
+    line-height: 18px;
+}
+.foot-img img{ 
+    width: 40px;
+}
+.footly{
+ background-color: black;
+ color: white;
+ height: 20%;   
+}
+.footly-flex{
+    display: flex;
+    justify-content: space-between;
+}
+#t{
+
+ margin-left: 450px;
+}
+a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+}
